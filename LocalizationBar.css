@@ -1,0 +1,11 @@
+/*#region Localization Selector*/
+.drop_down_list {
+	margin: 14px 165px 10px 0;
+
+	user-select: none;
+}
+
+.language_list {
+	width: 80px;
+}
+/*#endregion Localization Selector*/

@@ -1,0 +1,14 @@
+/*#region Calc Selector*/
+.calc {
+	height: auto;
+	width: 270px;
+
+	background: linear-gradient(265deg, #a18db95e, #7da8c973, #7d95ac38, #5bb96b59);
+	/* background: linear-gradient(120deg, #867897, #92c6ee, #adc8e1, #7bc288, #81f98e); */
+	/* background-color: #eaf1f0; */
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+/*#endregion Calc Selector*/

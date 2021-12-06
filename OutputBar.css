@@ -1,0 +1,46 @@
+/*#region OutputBar & it's child*/
+.output_bar {
+	height: 83px;
+	width: 245px;
+
+	/* width: 244px; */
+
+	background-color: #ffffffbd;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+
+	border: 1px solid #7da8c973;
+
+	/* background-color: #d3d3d37d; */
+}
+
+.history_bar {
+	height: 40px;
+	
+	display: flex;
+	justify-content: flex-end;
+
+	color: #222020c9;
+	font-size: 20px;
+	font-family: sans-serif;
+	/* white-space: nowrap; */
+	
+	overflow: hidden;
+}
+
+.display_bar {
+	height: 40px;
+	
+	display: flex;
+	justify-content: flex-end;
+
+	font-family: sans-serif;
+
+	/* padding-left: 1px; */
+	
+	/* border: 5px solid #ffffff00; */
+	
+	/* white-space: nowrap; */
+}
+/*#endregion OutputBar & it's child*/
